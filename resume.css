@@ -1,0 +1,38 @@
+*{
+    margin: 10px;
+}
+.resume h1{ 
+    margin-top: 50px;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+}
+span{
+    color: blue;
+}
+hr{
+    margin-top: px;
+    border: 2px solid black;
+}
+.per-data{
+    margin: 0;
+}
+.pic1by1 img{
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    margin-left: 73%;
+    position: absolute;
+    bottom: 70%;
+    right: 32px;
+}
+.text h4{
+    margin-right: 50px;
+}
+.main-text li{
+    margin: 0;
+    padding: 30px 5px;
+    display: flex;
+}
+.exp{
+    margin: 0;
+}
